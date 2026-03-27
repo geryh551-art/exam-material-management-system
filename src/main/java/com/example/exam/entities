@@ -1,0 +1,8 @@
+// Review.java
+package com.example.exam;  // Import statements ...  public class Review {  private Long id;  private String reviewer;  private String comments;  private int rating;  // Getters and Setters }
+
+// AuditLog.java
+package com.example.exam;  // Import statements ...  public class AuditLog {  private Long id;  private String action;  private String timestamp;  // Getters and Setters }
+
+// Notification.java
+package com.example.exam;  // Import statements ...  public class Notification {  private Long id;  private String message;  private boolean seen;  // Getters and Setters }
